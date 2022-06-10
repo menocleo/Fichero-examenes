@@ -1,0 +1,5 @@
+Soria 27 C
+Madrid 93 F
+Alaska 35 F
+Covaleda 22 C
+Duruelo 19 C
